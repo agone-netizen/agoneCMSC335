@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Abhi Gone Terpconnect Static Site</title>
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" >
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" >
+    <link rel="shortcut icon" href="/favicon.ico" >
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" >
+    <link rel="manifest" href="/site.webmanifest" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="wrap">
+    <h1>Terpconnect Static Site</h1>
+    <h2>Render Info</h2>
+    <ul>
+        <li>
+            <strong>Name:</strong> Abhinaysai Gone
+        </li>
+        <li>
+            <strong>Render Location: </strong> TBH
+        </li>
+    </ul>
+<strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+
+<h2>About Me</h2>
+
+<p>My name is Abhi Gone and I am a Computer Science:Cybersecurity student at
+    the University of Maryland: College Park. I wish to get into the Cybersecurity World.
+</p>
+
+<h2> My Certifications</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Certifications</th>
+            <th>Issuers</th>
+            <th>Speciality</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Network+</td>
+            <td>CompTIA</td>
+            <td>Network Configuration</td>
+        </tr>
+        <tr>
+            <td>Security+</td>
+            <td>CompTIA</td>
+            <td>Core Cybsercurity Industry Practices</td>
+        </tr>
+        <tr>
+            <td>AWS Cloud Practioner(planned)</td>
+            <td>Amazon Web Services</td>
+            <td>Core Cloud Foundations</td>
+        </tr>
+    </tbody>    
+</table>
+
+<h2>A Video I Like</h2>
+    <p>Here's a video on cybersecurity that gives brief introduction:</p>
+    <a class="video-link" href="https://www.youtube.com/watch?v=inWWhr5tnEA" target="_blank" rel="noopener">
+      Watch on YouTube
+    </a>
+
+</div>
+</body>
+</html>
